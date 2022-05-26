@@ -1,9 +1,6 @@
 sffgsjlbglsjf
 ggd
 gedger
-<<<<<<< HEAD
 hola estas son mis modificaciones que quiero guardar antes de que empiece la clase
 porque no quiero tener dudas
-=======
 Modificando el un archivo compartido
->>>>>>> 12cf3336e87f22b87e08fe6151789e85d51fe7f2
